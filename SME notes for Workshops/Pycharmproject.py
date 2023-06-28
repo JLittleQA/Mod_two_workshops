@@ -36,4 +36,4 @@ def main():
 
 
 
-main()
+addItem(12,2)
